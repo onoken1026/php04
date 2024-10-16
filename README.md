@@ -11,7 +11,7 @@
   
 
 ## ③DEMO
-https://gsacademy-ko.sakura.ne.jp/php03/php01r2s/post.php
+https://gsacademy-ko.sakura.ne.jp/php04/php01r3s/post.php
 
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
